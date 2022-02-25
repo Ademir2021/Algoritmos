@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619705934 source:/home/ademir/Documentos/AulasC/pesoaltura/main.cpp
+	<iostream>
+	<stdio.h>
+

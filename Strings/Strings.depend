@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621341268 source:/home/ademir/ProjetosII/Strings/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
